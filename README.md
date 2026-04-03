@@ -1,4 +1,4 @@
-# TP : Classification Non Supervisée – K-means et Fuzzy C-Means (FCM)
+# Classification Non Supervisée – K-means et Fuzzy C-Means (FCM)
 
 ## 1. Objectif du TP
 L'objectif de ce TP est d'appliquer des méthodes de **classification non supervisée** sur un jeu de données de fromages, afin de :  
@@ -99,6 +99,3 @@ L'objectif de ce TP est d'appliquer des méthodes de **classification non superv
 
 ---
 
-- Nom : [Ton Nom]  
-- Date : [Date du TP]  
-- Cours : Analyse de Données – TP Clustering
